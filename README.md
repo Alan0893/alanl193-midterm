@@ -1,1 +1,0 @@
-# CS506 Midterm
